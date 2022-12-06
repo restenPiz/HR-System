@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Start the head part-->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MauroPeniel___HR_System</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/HR_System.styles.css" asp-append-version="true" />
+
+    <link media="all" type="text/css" rel="stylesheet" href="~/assets/plugins/%40mdi/font/css/materialdesignicons.min.css">
+    <link media="all" type="text/css" rel="stylesheet" href="~/assets/plugins/perfect-scrollbar/perfect-scrollbar.css">
+    <link media="all" type="text/css" rel="stylesheet" href="~/assets/css/app.css">
+    <!--End the head-->
+</head>
+<body>
+    <!--Start of all content of managment system->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <!--End of all system content-->
+
+    <!--Start the content of all javascript links-->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/assets/js/app.js"></script>
+    <!--End of JS links-->
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

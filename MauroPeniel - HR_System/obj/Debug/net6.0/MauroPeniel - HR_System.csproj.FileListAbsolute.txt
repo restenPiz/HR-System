@@ -1,0 +1,52 @@
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\appsettings.json
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.staticwebassets.runtime.json
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.exe
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.deps.json
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.runtimeconfig.json
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.dll
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.pdb
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.csproj.AssemblyReference.cache
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.AssemblyInfoInputs.cache
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.AssemblyInfo.cs
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.RazorAssemblyInfo.cache
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.RazorAssemblyInfo.cs
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\scopedcss\bundle\MauroPeniel - HR_System.styles.css
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\scopedcss\projectbundle\MauroPeniel - HR_System.bundle.scp.css
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.dll
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\refint\MauroPeniel - HR_System.dll
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.pdb
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.genruntimeconfig.cache
+C:\Users\Mauro Peniel\source\repos\HR-System\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\ref\MauroPeniel - HR_System.dll
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\appsettings.json
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.staticwebassets.runtime.json
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.exe
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.deps.json
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.runtimeconfig.json
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.dll
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\bin\Debug\net6.0\MauroPeniel - HR_System.pdb
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.csproj.AssemblyReference.cache
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.AssemblyInfoInputs.cache
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.AssemblyInfo.cs
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.RazorAssemblyInfo.cache
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.RazorAssemblyInfo.cs
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\scopedcss\bundle\MauroPeniel - HR_System.styles.css
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\scopedcss\projectbundle\MauroPeniel - HR_System.bundle.scp.css
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.dll
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\refint\MauroPeniel - HR_System.dll
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.pdb
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\MauroPeniel - HR_System.genruntimeconfig.cache
+C:\Users\Mauro Peniel\source\repos\MauroPeniel - HR_System\MauroPeniel - HR_System\obj\Debug\net6.0\ref\MauroPeniel - HR_System.dll
